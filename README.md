@@ -1,5 +1,5 @@
 
-# 🧠🍽️ Food101 Calorie Estimation with Image Classification
+# 🧠🍽️ 101 Food Classification & Calories Identification
 
 This project leverages computer vision and deep learning to classify food items from the **Food101 dataset** and estimate calorie content per gram. It’s designed as an end-to-end pipeline for food image recognition and calorie estimation, making it suitable for health, nutrition, and fitness applications.
 
